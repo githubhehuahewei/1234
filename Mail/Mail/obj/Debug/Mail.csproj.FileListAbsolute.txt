@@ -1,0 +1,8 @@
+D:\MyDocument\桌面\C# smtp协议winform版邮件发送例程\codesc.net\C# winform 发送邮件,附件,例题 smtp协议\Mail\Mail\bin\Debug\Mail.exe
+D:\MyDocument\桌面\C# smtp协议winform版邮件发送例程\codesc.net\C# winform 发送邮件,附件,例题 smtp协议\Mail\Mail\bin\Debug\Mail.pdb
+D:\MyDocument\桌面\C# smtp协议winform版邮件发送例程\codesc.net\C# winform 发送邮件,附件,例题 smtp协议\Mail\Mail\obj\Debug\Mail.csprojResolveAssemblyReference.cache
+D:\MyDocument\桌面\C# smtp协议winform版邮件发送例程\codesc.net\C# winform 发送邮件,附件,例题 smtp协议\Mail\Mail\obj\Debug\Mail.mailone.resources
+D:\MyDocument\桌面\C# smtp协议winform版邮件发送例程\codesc.net\C# winform 发送邮件,附件,例题 smtp协议\Mail\Mail\obj\Debug\Mail.Properties.Resources.resources
+D:\MyDocument\桌面\C# smtp协议winform版邮件发送例程\codesc.net\C# winform 发送邮件,附件,例题 smtp协议\Mail\Mail\obj\Debug\Mail.csproj.GenerateResource.Cache
+D:\MyDocument\桌面\C# smtp协议winform版邮件发送例程\codesc.net\C# winform 发送邮件,附件,例题 smtp协议\Mail\Mail\obj\Debug\Mail.exe
+D:\MyDocument\桌面\C# smtp协议winform版邮件发送例程\codesc.net\C# winform 发送邮件,附件,例题 smtp协议\Mail\Mail\obj\Debug\Mail.pdb
